@@ -1,0 +1,7 @@
+librosa 
+parselmouth 
+numpy 
+scipy 
+matplotlib 
+soundfile 
+pyworld
